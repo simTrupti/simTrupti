@@ -1,6 +1,6 @@
 # Hi, I'm Trupti 👋
 
-💻 Backend Developer | Java | Spring Boot | Scalable Web Applications
+ Backend Developer | Java | Spring Boot | Scalable Web Applications
 
 
 
@@ -25,6 +25,8 @@ Admin panel for users, products, and orders
 Payment integration (PayPal)
 AI chatbot integration (Gemini & Groq APIs)
 API testing using Postman
+
+// ..and other projects on my repo list
 
 
 
