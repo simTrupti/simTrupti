@@ -16,7 +16,7 @@ CRUD operations with layered architecture
 RESTful APIs for real-world backend flow
 
 2) Tech Shop Backend (MERN)
-   GitHub: https://github.com/YOUR_PERSONAL_ID/tech-shop-backend
+   GitHub: GitHub: https://github.com/simTrupti/eshop.git
    Tech: Node.js, Express.js, MongoDB, JWT, REST APIs
  Features:
 User authentication and profile management
