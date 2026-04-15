@@ -8,7 +8,7 @@ Projects:
 
 
 1) E-Commerce Backend (eShop)
-   GitHub: https://github.com/YOUR_PERSONAL_ID/eshop
+   GitHub: https://github.com/simTrupti/eshop.git
    Tech: Java, Spring Boot, REST APIs, MySQL
  Features:
 User, Order, OrderItems modules
