@@ -26,12 +26,3 @@ Theme customization and activity history tracking
 
 
 
-3) Hotel Booking Prediction System (ML Project)(BITS)
-   GitHub: https://github.com/YogendraBits/ML-project.git
-   Tech: Python, Scikit-learn, Pandas, NumPy, XGBoost
- Features:
-Machine learning model to predict booking reservation status
-Feature engineering (pricing gap, weather impact, booking stability)
-Model training using Random Forest & XGBoost
-CLI-based prediction system for user input
-Data preprocessing with encoding and missing value handling
