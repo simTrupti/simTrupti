@@ -1,6 +1,10 @@
 # Hi, I'm Trupti 👋
 
-💻 Backend Developer | Java | Spring Boot 
+💻 Backend Developer | Java | Spring Boot | Scalable Web Applications
+
+
+
+Projects:
 
 
 1) E-Commerce Backend (eShop)
@@ -23,7 +27,9 @@ AI chatbot integration (Gemini & Groq APIs)
 API testing using Postman
 
 
+
 Collaborative group Projects: 
+
 
 3) TaskSync – Task Management System (BITS)
     GitHub: https://github.com/gauravp11/DevOps-Main.git
